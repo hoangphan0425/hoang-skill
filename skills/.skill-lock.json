@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "skills": {
+    "problem-framing-canvas": {
+      "source": "deanpeters/product-manager-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/deanpeters/product-manager-skills.git",
+      "skillPath": "skills/problem-framing-canvas/SKILL.md",
+      "skillFolderHash": "d36fd7e4f28ae4c6c7f9a3c0064f95b0ce5dcd2b",
+      "installedAt": "2026-11-10T03:46:56.754Z",
+      "updatedAt": "2026-11-10T03:46:56.754Z"
+    },
+    "product-brainstorming": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/knowledge-work-plugins.git",
+      "skillPath": "product-management/skills/product-brainstorming/SKILL.md",
+      "skillFolderHash": "87927826dc1b27c4c9e84b88be10f3dc383a3e4b",
+      "installedAt": "2026-11-10T03:47:05.147Z",
+      "updatedAt": "2026-11-10T03:47:05.147Z"
+    }
+  },
+  "dismissed": {}
+}
